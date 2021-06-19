@@ -1,0 +1,25 @@
+{
+  "title": "Shiki Sanchi",
+  "description": "Three brothers lived together and they got a sister. Three brothers, Natsuki, Soushuu, and Touma, who spends boring daily life. One day, their mother who came home for the first time in a long time brought them a way younger sister, Haruka ...!?",
+  "artist": "Liberum",
+  "author": "Liberum",
+  "cover": "https://i.imgur.com/IVhdht4.jpg",
+  "chapters": {
+    "01": {
+      "title": "Spring Has Come",
+      "volume": "01",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/WPS0SCI/"
+      },
+      "last_updated": "1622002196"
+    },
+    "02": {
+      "title": "My Home",
+      "volume": "01",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/HRQcOtX/"
+      },
+      "last_updated": "1622886644"
+    }
+  }
+}
