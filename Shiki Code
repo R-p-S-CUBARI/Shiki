@@ -20,6 +20,22 @@
         "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/HRQcOtX/"
       },
       "last_updated": "1622886644"
+    },
+    "02": {
+      "title": "My Home",
+      "volume": "01",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/HRQcOtX/"
+      },
+      "last_updated": "1622886644"
+    },
+    "03": {
+      "title": "The Little Sister Of The House",
+      "volume": "01",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/V0kYcJf/"
+      },
+      "last_updated": "1625294915"
     }
   }
 }
